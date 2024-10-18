@@ -1,0 +1,96 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/epg.xml"
+#EXTINF:-1 tvg-id="CW(WPSG).us2" tvg-name="CW SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cw-us.png" group-title="USA (TV247)" ,CW SD
+https://live.tv247us.com/hls/cw.m3u8
+
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/freeform-us.png" group-title="USA (TV247)" ,Freeform SD
+https://live.tv247us.com/hls/freeform.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hgtv-us.png" group-title="USA (TV247)" ,HGTV SD
+https://live.tv247us.com/hls/hgtv.m3u8
+
+#EXTINF:-1 tvg-id="WNBC.us" tvg-name="NBC SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-us.png" group-title="USA (TV247)" ,NBC SD
+https://live.tv247us.com/hls/nbc.m3u8
+
+#EXTINF:-1 tvg-id="FS2(Spanish).us" tvg-name="Fox Sports 2 SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="SPORTS (TV247)" ,Fox Sports 2 SD
+https://live.tv247us.com/hls/foxsports2.m3u8
+
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-us.png" group-title="USA (TV247)" ,HBO SD
+https://live.tv247us.com/hls/hbo.m3u8
+
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/showtime-us.png" group-title="USA (TV247)" ,Showtime SD
+https://live.tv247us.com/hls/showtime.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="USA (TV247)" ,Cinemax SD
+https://live.tv247us.com/hls/cinemax.m3u8
+
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-name="BIG TEN Network (BTN) SD" tvg-logo="https://btn.com/wp-content/uploads/2022/01/share-image.png" group-title="SPORTS (TV247)" ,BIG TEN Network (BTN) SD
+https://live.tv247us.com/hls/bigten.m3u8
+
+#EXTINF:-1 tvg-id="FOXNet.us" tvg-name="FOX SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" group-title="USA (TV247)" ,FOX SD
+https://live.tv247us.com/hls/fox.m3u8
+
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Redzone SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nfl-network-us.png" group-title="SPORTS (TV247)" ,NFL Redzone SD
+https://live.tv247us.com/hls/nflredzone.m3u8
+
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png" group-title="SPORTS (TV247)" ,MLB Network SD
+https://live.tv247us.com/hls/mlb.m3u8
+
+#EXTINF:-1 tvg-id="NBATV.us" tvg-name="NBA TV SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png" group-title="SPORTS (TV247)" ,NBA TV SD
+https://live.tv247us.com/hls/nba.m3u8
+
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="Nicktoons SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="USA (TV247)" ,Nicktoons SD
+https://live.tv247us.com/hls/nicktoons.m3u8
+
+#EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC News SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/abc-us.png" group-title="USA (TV247)" ,ABC News SD
+https://live.tv247us.com/hls/abcnews.m3u8
+
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" group-title="USA (TV247)" ,CNBC SD
+https://live.tv247us.com/hls/cnbc.m3u8
+
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network (CBSSN) SD" tvg-logo="https://pbs.twimg.com/profile_images/1356268043941380099/QHq2W42n_400x400.jpg" group-title="SPORTS (TV247)" ,CBS Sports Network (CBSSN) SD
+https://live.tv247us.com/hls/cbssn.m3u8
+
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="NICK SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nick-us.png" group-title="USA (TV247)" ,NICK SD
+https://live.tv247us.com/hls/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (TV247)" ,A&E SD
+https://live.tv247us.com/hls/aande.m3u8
+
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="USA (TV247)" ,The Weather Channel SD
+https://live.tv247us.com/hls/weather.m3u8
+
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tbs-us.png" group-title="USA (TV247)" ,TBS SD
+https://live.tv247us.com/hls/tbs.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkMystery.us" tvg-name="Hallmark Movies & Mysterie SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-mystery-us.png" group-title="USA (TV247)" ,Hallmark Movies & Mysterie SD
+https://live.tv247us.com/hls/hallmarkmystery.m3u8
+
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="The Hallmark Channel SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" group-title="USA (TV247)" ,The Hallmark Channel SD
+https://live.tv247us.com/hls/hallmark.m3u8
+
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bet-us.png" group-title="USA (TV247)" ,BET SD
+https://live.tv247us.com/hls/bet.m3u8
+
+#EXTINF:-1 tvg-id="NickJR.us" tvg-name="Nick Jr. SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nickjr-us.png" group-title="USA (TV247)" ,Nick Jr. SD
+https://live.tv247us.com/hls/nickjr.m3u8
+
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-us.png" group-title="USA (TV247)" ,MTV SD
+https://live.tv247us.com/hls/mtv.m3u8
+
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TV Land SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tvland-us.png" group-title="USA (TV247)" ,TV Land SD
+https://live.tv247us.com/hls/tvland.m3u8
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-network-us.png" group-title="USA (TV247)" ,Paramount Network SD
+https://live.tv247us.com/hls/paramount.m3u8
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="USA (TV247)" ,TNT SD
+https://live.tv247us.com/hls/tnt.m3u8
+
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-network-us.png" group-title="USA (TV247)" ,USA Network SD
+https://live.tv247us.com/hls/usa.m3u8
+
+#EXTINF:-1 tvg-id="AandE.us" tvg-name="A&E SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (TV247)" ,A&E SD
+https://live.tv247us.com/hls/aande.m3u8
+
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz SD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/starz-us.png" group-title="USA (TV247)" ,Starz SD
+https://live.tv247us.com/hls/starz.m3u8
